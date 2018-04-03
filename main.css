@@ -1,0 +1,29 @@
+header{
+	background: #888;
+	color: white;
+}
+
+body {
+	background:#999;
+	font-family: arial;
+
+}
+h1,h2 {
+	color: pink;
+	padding: 10px;
+}
+a {
+	color: green;
+}
+.secondary {
+	background: yellow;
+	color: green;
+	
+
+}
+#special {
+	background: red;
+	color: gold;
+	
+
+}
